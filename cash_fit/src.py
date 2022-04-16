@@ -2,12 +2,12 @@ from datetime import datetime
 from pytz import timezone
 import os
 
-g_m_channel = "C03A5GVDQ9G"
+c_f_channel = "C03AEMDJDRS"
 bot_token = "xoxb-1830334374899-2443966688067-uYiR4dWVtj11GqJvE6D6ykBg"
-spreadsheet_url = "https://docs.google.com/spreadsheets/d/1doYowbfl1TJ3zn-QSGl8YMpr6P-0uUd_PPxrQGpAKLo/edit#gid=1934408757"
+spreadsheet_url = "https://docs.google.com/spreadsheets/d/1Z_B2eYLwOOqU27yuQn6Mj68osJIT3og2XW4HFOSlHgM/edit#gid=147463382"
 
 cur_dir = os.getcwd()
-json_key_path = cur_dir + "/config/goodmorningproject-657481cfc7b9.json"
+json_key_path = cur_dir + "/config/cash-fit-347415-7076e46da026.json"
 
 scope = [
     "https://spreadsheets.google.com/feeds",
@@ -15,17 +15,17 @@ scope = [
 ]
 
 class Time:
-	def g_m_post_time():
+	def c_f_post_time():
 			return (datetime.now(timezone('Asia/Seoul'))).strftime('%Y년 %-m월 %-d일')
-	def g_m_time():
+	def c_f_time():
 		return (datetime.now(timezone('Asia/Seoul'))).strftime('%-m/%-d')
 
-g_m_state = [
+c_f_state = [
 	{
 		"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*[굿모닝🌞프로젝트 인증 - " + Time.g_m_post_time() + "]* \n\n"
+				"text": "*[Cash-Fit 💪 인증 - " + Time.c_f_post_time() + "]* \n\n"
 			}
 	}
 ]

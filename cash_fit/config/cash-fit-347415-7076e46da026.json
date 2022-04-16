@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cash-fit-347415",
+  "private_key_id": "7076e46da026a1c1272e2df5f5d3c1b7ab37d04a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNxGWCsNrVmJcz\njOVNitH08xc+5vO42+eCypeThMNuJ6sdMjKLbVkQk+h1ZaHXFshDDg23Mig2+TJ7\nv56YljyS5+ooDEpF0KJBj0BmJM5LlTRY3T9TYQsNpoClh/KsfDBVXn6b1tP0iQvO\no7JVhgxQ9J2sS9XovuQKZBsxamu4TkVgYvdIo8E2wRHy0O+tGsSFUxL1wU2fgmFV\nr47X46R+cLaGqJ/rt6/7w7rooENKoDHgKNiXQZw58sO+LbXzguF1eTvwuPAF9X3a\nXbzeWFEeK+5l5xauMahMZPgtT2e8/7N46VupqB9Ej8SFwueN9lGgVdMbcja+qpm/\nZ+MJfz35AgMBAAECggEAAc06QvqFHVarMuvaZs3piGFdLuilx1TBl68UxFlmvqmr\n7A2wTJvl/5OpTDyEvhXjJgHS/pYlV6nh68ch6TMeOlO72fhAPuaUl8oHJdMlAptp\nVxfaLJg5GQ2qqwhgMxYZSZNnZ2TqUTCmq6YE8zkWatphdmHpmxKaJjnPKnpvPAYL\nZ1XG9SHMAbZlT1h1CZy8YFdKkyKZrgM1VINR4v1hAcrtzDxp6SB5cOxYrti9LmSm\nQhCVjpufKgUEh5yIN7GsK92rQbsN/AMWSplWvRZFZMR8MSY7Gqw1bXqYPXFBs2QP\nyMYu5IHcJtD/3lMLW7ZlOc1lGfBYOGHF1U35F6K+KQKBgQDqJFgMrkDt6ajCML9o\nDKwwMvDL5BY10gajJTMpioxT8vwpmm5tS97ADuHJQAWU5G24p+FT19Q3xjPoJ0Oz\neDyVBqP4R918XJTwy6b2LXoAK/FjTpzqK/Z5GBfAUSg+9CmR8DCgrhA9XYbegHMh\nL0FbOj3HCCldDorOFIh9vRGh3QKBgQDg+e+SiMykrVot0cliazitkVxw9oaE51WF\nW9dzEXEw8TMnNSX7gppzIYulbynfyRa/F1YvrPtvd8D99SrGFGsD2LWu/zEV8jZB\nzYWgW4GIBm7B+nmSo7MSfpIx+C+SYBqIXT06kDApkz6493JElRhTn+MmeIEQrt0B\nF+MozOkgzQKBgH0vsWQWRuDtbS1movAe1nFuyxA4gyeDg8j2usQbL6wy3l/gEeqe\nBhrp2g6gDFvvRjrUh8UsQGsRre8SD0CFqN6FDmZRBjrXxUp5mGtHJVOyKv3NqlgJ\n6V4VY52PxtTh9tfwdA91AXnN565PPz8e5PLB0QX5dyQqAkzs7Y1M6YCBAoGBANtY\ntA0BlczlO2w7AwcTFSKc/C0jHwqLZeVtIwWMtviJ4l7SweKTdrTTuwyj8oa+z4+m\nWCCJnmgSsTaqB3cyxxfr/U/OfXQxQFct45/yN7uA0hIMfOXM9zYL88wGd5NWYegc\nSCtGE78lUd0TXPSjDSHTXKvQh73VT6LWQGMyTgXtAoGAEiRuqFhD86abM7ade5fD\nWxycgghmVLV/9AA6deEZvejAKrAsI/otN5d7cTiU8ye/WXKBDDnUy1QtEfS3BY6g\nJoyCb4WCwEL9S0QWx8oIgDG/xPlQDQRzVQBpyv9PlHQRvY8Frs8ERKcTr9qviQzI\nWOQabzxG96QINSgQjrz7teE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cash-fit@cash-fit-347415.iam.gserviceaccount.com",
+  "client_id": "111672163165380213286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cash-fit%40cash-fit-347415.iam.gserviceaccount.com"
+}
