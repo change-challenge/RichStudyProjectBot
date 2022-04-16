@@ -17,8 +17,6 @@ today = datetime.now(timezone('Asia/Seoul'))
 g_m_users = []
 client = WebClient(src.bot_token)
 
-
-
 def get_ts():
 	daily_thread = client.conversations_history(channel=src.g_m_channel)["messages"][0]
 	return (daily_thread["ts"])
