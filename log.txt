@@ -1,0 +1,10 @@
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+Traceback (most recent call last):
+  File "/home/ubuntu/RichStudyProjectBot/good_morning/main.py", line 28, in <module>
+    worksheet1 = import_googlesheet("현재 진행중")
+  File "/home/ubuntu/RichStudyProjectBot/good_morning/main.py", line 22, in import_googlesheet
+    credential = ServiceAccountCredentials.from_json_keyfile_name(src.json_key_path, src.scope)
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/oauth2client/service_account.py", line 219, in from_json_keyfile_name
+    with open(filename, 'r') as file_obj:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ubuntu/config/goodmorningproject-657481cfc7b9.json'

@@ -69,10 +69,10 @@ def send_morning():
 				date_row += 1
 				flag = True
 				break
-		worksheet1.update_cell(date_row, date_col, 'X')
 		if (flag == True):
 			flag = False
 			continue
+		worksheet1.update_cell(date_row, date_col, 'X')
 		date_row += 1
 
 def send_morning_active():
@@ -94,7 +94,6 @@ def send_morning_active():
 				date_row += 1
 				flag = True
 				break
-		print(value)
 		if (flag == True):
 			flag = False
 			continue
@@ -102,12 +101,16 @@ def send_morning_active():
 
 if __name__ == "__main__":
 	try:
+		print("==============시작===============")
 		if (today.hour == 0):
+			print("굿모닝프로젝트 인증 글 작성")
 			client.chat_postMessage(channel=src.g_m_channel, blocks=src.g_m_state)
 		if (today.hour == 8):
+			print("굿모닝프로젝트 아침 인증")
 			send_morning()
 		if (today.hour == 13):
+			print("굿모닝프로젝트 오전 활동 인증")
 			send_morning_active()
-		print("==============================")
+		print("==============끝================")
 	except:
 		print("오류가 발생하였습니다.")

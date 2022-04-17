@@ -7,7 +7,7 @@ bot_token = "xoxb-1830334374899-2443966688067-uYiR4dWVtj11GqJvE6D6ykBg"
 spreadsheet_url = "https://docs.google.com/spreadsheets/d/1Z_B2eYLwOOqU27yuQn6Mj68osJIT3og2XW4HFOSlHgM/edit#gid=147463382"
 
 cur_dir = os.getcwd()
-json_key_path = cur_dir + "/config/cash-fit-347415-7076e46da026.json"
+json_key_path = cur_dir + "/RichStudyProjectBot/cash_fit/config/cash-fit-347415-7076e46da026.json"
 
 scope = [
     "https://spreadsheets.google.com/feeds",

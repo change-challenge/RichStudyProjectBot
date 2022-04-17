@@ -7,7 +7,7 @@ bot_token = "xoxb-1830334374899-2443966688067-uYiR4dWVtj11GqJvE6D6ykBg"
 spreadsheet_url = "https://docs.google.com/spreadsheets/d/1doYowbfl1TJ3zn-QSGl8YMpr6P-0uUd_PPxrQGpAKLo/edit#gid=1934408757"
 
 cur_dir = os.getcwd()
-json_key_path = cur_dir + "/config/goodmorningproject-657481cfc7b9.json"
+json_key_path = cur_dir + "/RichStudyProjectBot/good_morning/config/goodmorningproject-657481cfc7b9.json"
 
 scope = [
     "https://spreadsheets.google.com/feeds",

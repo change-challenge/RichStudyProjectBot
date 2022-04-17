@@ -53,16 +53,19 @@ def send_cashfit():
 				date_row += 1
 				flag = True
 				break
-		worksheet1.update_cell(date_row, date_col, 'X')
 		if (flag == True):
 			flag = False
 			continue
+		worksheet1.update_cell(date_row, date_col, 'X')
 		date_row += 1
 
 if __name__ == "__main__":
 	try:
+		print("==============시작===============")
+		print("cash-fit 인증")
 		send_cashfit()
+		print("cash-fit 인증 글 작성")
 		client.chat_postMessage(channel=src.c_f_channel, blocks=src.c_f_state)
-		print("==============================")
+		print("==============끝================")
 	except:
 		print("오류가 발생하였습니다.")
