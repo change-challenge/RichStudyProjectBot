@@ -1,7 +1,7 @@
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 from oauth2client.service_account import ServiceAccountCredentials
-from datetime import datetime, timedelta
+from datetime import datetime
 import gspread
 import src
 from slack import WebClient
@@ -20,7 +20,7 @@ def import_googlesheet(tab):
     return (worksheet)
 
 worksheet1 = import_googlesheet("현재 진행중")
-g_date = worksheet1.find(src.Time.c_f_time())
+g_date = worksheet1.find(src.Time.c_f_time)
 
 def cash_fit_users():
 	daily_ts = client.conversations_history(channel=src.c_f_channel)["messages"][0]["ts"]
@@ -65,7 +65,7 @@ if __name__ == "__main__":
 		print("cash-fit 인증")
 		send_cashfit()
 		print("cash-fit 인증 글 작성")
-		client.chat_postMessage(channel=src.c_f_channel, blocks=src.c_f_state)
+		client.chat_postMessage(channel=src.c_f_channel, blocks=src.c_f_state, text=src.c_f_noti)
 		print("==============끝================")
 	except:
 		print("오류가 발생하였습니다.")

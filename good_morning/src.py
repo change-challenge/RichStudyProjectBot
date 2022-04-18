@@ -15,20 +15,19 @@ scope = [
 ]
 
 class Time:
-	def g_m_post_time():
-			return (datetime.now(timezone('Asia/Seoul'))).strftime('%Y년 %-m월 %-d일')
-	def g_m_time():
-		return (datetime.now(timezone('Asia/Seoul'))).strftime('%-m/%-d')
+	g_m_post_time = datetime.now(timezone('Asia/Seoul')).strftime('%Y년 %-m월 %-d일')
+	g_m_time = datetime.now(timezone('Asia/Seoul')).strftime('%-m/%-d')
 
 g_m_state = [
 	{
 		"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*[굿모닝 🌞 프로젝트 인증 - " + Time.g_m_post_time() + "]* \n\n"
+				"text": "*[굿모닝 🌞 프로젝트 인증 - " + Time.g_m_post_time + "]* \n\n"
 			}
 	}
 ]
+g_m_noti = "굿모닝 🌞 프로젝트 인증 글"
 
 class UserID:
 	users_name = [

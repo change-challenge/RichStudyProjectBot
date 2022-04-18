@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from pytz import timezone
 import os
 
@@ -15,20 +15,19 @@ scope = [
 ]
 
 class Time:
-	def c_f_post_time():
-			return (datetime.now(timezone('Asia/Seoul'))).strftime('%Y년 %-m월 %-d일')
-	def c_f_time():
-		return (datetime.now(timezone('Asia/Seoul'))).strftime('%-m/%-d')
+	c_f_post_time = datetime.now(timezone('Asia/Seoul')).strftime('%Y년 %-m월 %-d일')
+	c_f_time = (datetime.now(timezone('Asia/Seoul')) - timedelta(days=1)).strftime('%-m/%-d')
 
 c_f_state = [
 	{
 		"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*[Cash-Fit 💪 인증 - " + Time.c_f_post_time() + "]* \n\n"
+				"text": "*[Cash-Fit 💪 인증 - " + Time.c_f_post_time + "]* \n\n"
 			}
 	}
 ]
+c_f_noti = "Cash-Fit 💪 인증"
 
 class UserID:
 	users_name = [

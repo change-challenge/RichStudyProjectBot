@@ -26,7 +26,7 @@ def import_googlesheet(tab):
     return (worksheet)
 
 worksheet1 = import_googlesheet("현재 진행중")
-g_date = worksheet1.find(src.Time.g_m_time())
+g_date = worksheet1.find(src.Time.g_m_time)
 
 def morning_users():
 	daily_ts = client.conversations_history(channel=src.g_m_channel)["messages"][0]["ts"]
@@ -104,7 +104,7 @@ if __name__ == "__main__":
 		print("==============시작===============")
 		if (today.hour == 0):
 			print("굿모닝프로젝트 인증 글 작성")
-			client.chat_postMessage(channel=src.g_m_channel, blocks=src.g_m_state)
+			client.chat_postMessage(channel=src.g_m_channel, blocks=src.g_m_state, text=src.g_m_noti)
 		if (today.hour == 8):
 			print("굿모닝프로젝트 아침 인증")
 			send_morning()
