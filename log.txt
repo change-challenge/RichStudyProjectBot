@@ -8,3 +8,9 @@ Traceback (most recent call last):
   File "/home/ubuntu/.local/lib/python3.8/site-packages/oauth2client/service_account.py", line 219, in from_json_keyfile_name
     with open(filename, 'r') as file_obj:
 FileNotFoundError: [Errno 2] No such file or directory: '/home/ubuntu/config/goodmorningproject-657481cfc7b9.json'
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================

@@ -39,7 +39,7 @@ def morning_users():
 
 def morning_active_users():
 	daily_ts = client.conversations_history(channel=src.g_m_channel)["messages"][0]["ts"]
-	morning_time = time.mktime((today - timedelta(hours=5)).timetuple())
+	morning_time = time.mktime((today - timedelta(hours=4)).timetuple())
 	morming_active_history = client.conversations_replies(channel=src.g_m_channel, ts=daily_ts, oldest=morning_time)
 	for user in morming_active_history["messages"]:
 		if (user["user"] == "U02D1UEL81Z"):
