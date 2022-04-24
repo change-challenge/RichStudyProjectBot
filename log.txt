@@ -30,3 +30,135 @@ cash-fit 인증
 ===========send_cashfit()===========
 cash-fit 인증 글 작성
 ==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 아침 인증
+===========send_morning()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+cash-fit 인증
+===========send_cashfit()===========
+cash-fit 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 아침 인증
+===========send_morning()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+cash-fit 인증
+===========send_cashfit()===========
+cash-fit 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 아침 인증
+===========send_morning()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+cash-fit 인증
+===========send_cashfit()===========
+cash-fit 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 아침 인증
+===========send_morning()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+cash-fit 인증
+===========send_cashfit()===========
+cash-fit 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 아침 인증
+===========send_morning()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+cash-fit 인증
+===========send_cashfit()===========
+cash-fit 인증 글 작성
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 아침 인증
+===========send_morning()===========
+==============끝================
+/home/ubuntu/.local/lib/python3.8/site-packages/slack/deprecation.py:16: UserWarning: slack package is deprecated. Please use slack_sdk.web/webhook/rtm package instead. For more info, go to https://slack.dev/python-slack-sdk/v3-migration/
+  warnings.warn(message)
+==============시작===============
+굿모닝프로젝트 오전 활동 인증
+===========send_morning_active()===========
+==============끝================
